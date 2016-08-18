@@ -1,7 +1,7 @@
 {
   "name": "stream-post",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Simple stream -> http post request",
   "license": "MIT",
   "repository": "bendrucker/stream-post",
