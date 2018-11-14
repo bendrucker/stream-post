@@ -1,4 +1,4 @@
-# stream-post [![Build Status](https://travis-ci.org/bendrucker/stream-post.svg?branch=master)](https://travis-ci.org/bendrucker/stream-post)
+# stream-post [![Build Status](https://travis-ci.org/bendrucker/stream-post.svg?branch=master)](https://travis-ci.org/bendrucker/stream-post) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/stream-post.svg)](https://greenkeeper.io/)
 
 > Simple stream -> http post request
 
